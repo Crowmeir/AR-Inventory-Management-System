@@ -1,0 +1,181 @@
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.exe
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.deps.json
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.runtimeconfig.json
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.dll
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.pdb
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.AssemblyReference.cache
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form1.resources
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form2.resources
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Resources.resources
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.GenerateResource.cache
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.AssemblyInfoInputs.cache
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.AssemblyInfo.vb
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.CoreCompileInputs.cache
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventor.A054DC53.Up2Date
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.dll
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\refint\Inventory System Project.dll
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.pdb
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.genruntimeconfig.cache
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\ref\Inventory System Project.dll
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form3.resources
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form4.resources
+C:\Users\Crow\source\repos\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form5.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.exe
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.deps.json
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.runtimeconfig.json
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.pdb
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.AssemblyReference.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form1.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form2.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form3.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form4.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form5.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Resources.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.GenerateResource.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.AssemblyInfoInputs.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.AssemblyInfo.vb
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.CoreCompileInputs.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventor.A054DC53.Up2Date
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\refint\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.pdb
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.genruntimeconfig.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\ref\Inventory System Project.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.exe
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.deps.json
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.runtimeconfig.json
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.pdb
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.Management.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.AssemblyReference.cache
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form1.resources
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form2.resources
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form3.resources
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form4.resources
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form5.resources
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Resources.resources
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.GenerateResource.cache
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.AssemblyInfoInputs.cache
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.AssemblyInfo.vb
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.CoreCompileInputs.cache
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventor.A054DC53.Up2Date
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\refint\Inventory System Project.dll
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.pdb
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.genruntimeconfig.cache
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\ref\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (1)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.AssemblyReference.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (1)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (1)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\refint\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (1)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.pdb
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.AssemblyReference.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\refint\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.pdb
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.exe
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.deps.json
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.runtimeconfig.json
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Inventory System Project.pdb
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form1.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form2.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form3.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form4.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form5.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Resources.resources
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.GenerateResource.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.AssemblyInfoInputs.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.AssemblyInfo.vb
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.vbproj.CoreCompileInputs.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventor.A054DC53.Up2Date
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory System Project.genruntimeconfig.cache
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\ref\Inventory System Project.dll
+C:\Users\johnz\Documents\KAY KUYA\sql\Inventory System Project (2)\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form6.resources
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form6.resources
+D:\Visual studio workspaces\Inventory System Project\Inventory System Project\obj\Debug\net8.0-windows\Inventory_System_Project.Form7.resources

@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|c:\\users\\johnz\\documents\\kay kuya\\sql\\inventory system project (4)\\inventory system project\\inventory system project\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{99641846-469D-4610-86F2-6D1D68DE261A}|Inventory System Project\\Inventory System Project.vbproj|solutionrelative:inventory system project\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form6.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form6.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form6.vb",
+              "RelativeToolTip": "Inventory System Project\\Form6.vb",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T09:39:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form6.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form6.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form6.vb [Design]",
+              "RelativeToolTip": "Inventory System Project\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T09:09:51.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form4.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form4.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form4.vb",
+              "RelativeToolTip": "Inventory System Project\\Form4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-08T18:43:31.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form5.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form5.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form5.vb",
+              "RelativeToolTip": "Inventory System Project\\Form5.vb",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-08T16:18:07.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form1.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form1.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form1.vb",
+              "RelativeToolTip": "Inventory System Project\\Form1.vb",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAgwAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-08T15:42:27.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form3.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form3.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form3.vb",
+              "RelativeToolTip": "Inventory System Project\\Form3.vb",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T16:35:28.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form2.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form2.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form2.vb",
+              "RelativeToolTip": "Inventory System Project\\Form2.vb",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAqwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T12:45:38.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form3.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form3.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form3.vb [Design]",
+              "RelativeToolTip": "Inventory System Project\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T13:00:29.832Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form2.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form2.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form2.vb [Design]",
+              "RelativeToolTip": "Inventory System Project\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T12:39:10.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form1.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form1.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form1.vb [Design]",
+              "RelativeToolTip": "Inventory System Project\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T12:26:19.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form7.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form7.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form7.vb [Design]",
+              "RelativeToolTip": "Inventory System Project\\Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T12:36:03.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form7.vb",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form7.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form7.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form7.vb",
+              "RelativeToolTip": "Inventory System Project\\Form7.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T12:47:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form4.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form4.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form4.vb [Design]",
+              "RelativeToolTip": "Inventory System Project\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T13:14:34.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form5.vb",
+              "RelativeDocumentMoniker": "Inventory System Project\\Form5.vb",
+              "ToolTip": "C:\\Users\\johnz\\Documents\\KAY KUYA\\sql\\Inventory System Project (4)\\Inventory System Project\\Inventory System Project\\Form5.vb [Design]",
+              "RelativeToolTip": "Inventory System Project\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T13:33:09.579Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
